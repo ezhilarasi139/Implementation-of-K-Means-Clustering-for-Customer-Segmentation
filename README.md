@@ -61,9 +61,37 @@ plt.title("Customer Segment")
 
 ```
 
-
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+### 1.DATA.HEAD():
+<img width="786" height="256" alt="image" src="https://github.com/user-attachments/assets/43b436ce-2a7e-474c-acc9-26bfd8ab8754" />
+
+
+
+### 2.DATA.INF0():
+<img width="707" height="387" alt="image" src="https://github.com/user-attachments/assets/9e1258f4-c340-4ab4-981e-fd98676e993f" />
+
+
+
+### 3.DATA.ISNULL().SUM():
+<img width="436" height="211" alt="image" src="https://github.com/user-attachments/assets/8e330a69-7780-45cc-bb7b-c6fb9f84dbbe" />
+
+
+
+### 4.PLOT USING ELBOW METHOD:
+<img width="1061" height="787" alt="image" src="https://github.com/user-attachments/assets/f0d21d61-3bc6-48c0-97bf-1847c6c60c05" />
+
+
+
+### 5.K-MEANS CLUSTERING:
+<img width="575" height="172" alt="image" src="https://github.com/user-attachments/assets/43fb6f28-0168-4221-a04e-d3f3382ad149" />
+
+
+### 6.Y_PRED ARRAY:
+<img width="937" height="287" alt="image" src="https://github.com/user-attachments/assets/d49cace0-d8a1-4c27-a266-b03c47d53868" />
+
+
+### 7.CUSTOMER SEGMENT:
+<img width="1006" height="746" alt="image" src="https://github.com/user-attachments/assets/2ec34259-df90-4ee7-b8bb-97d8e9b2e5e3" />
 
 
 ## Result:
